@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-Just another repository
+Hi world, 
+I'm using PHP and MySQL.
